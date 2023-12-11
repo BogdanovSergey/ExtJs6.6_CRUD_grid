@@ -2,7 +2,7 @@
 
 ## CRUD интерфейс для работы со списком сотрудников из json-файла.
 
-#### Файл <a href="https://github.com/BogdanovSergey/ExtJs6.6_CRUD_grid/raw/master/build.zip">build.zip</a> содержит собранный проект готовый для просмотра.
+#### Файл <a href="https://github.com/BogdanovSergey/ExtJs6.6_CRUD_grid/raw/master/build.zip">build.zip</a> содержит собранный проект готовый для просмотра через локальный web-сервис.
 
 Реализованы следующие функции:
 - окно авторизации;
